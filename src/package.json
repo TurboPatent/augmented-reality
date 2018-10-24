@@ -1,0 +1,361 @@
+{
+  "name": "augmented-reality",
+  "description": "Augmented Reality drawings",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "isPrivate": false,
+  "homepage": "https://tp.turbopatent.us/pathub/packages/TurboPatent/augmented-reality.tp",
+  "details": {
+    "counts": {
+      "termCount": 10,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 6,
+      "glossaryCount": 3
+    },
+    "drawings": [
+      {
+        "figure": "Fig. 1",
+        "briefDescription": "<p><b>Fig. 1</b> illustrates an embodiment of a superimposing logic 102.</p>",
+        "parts": [
+          {
+            "part": "augmented reality environment",
+            "number": 100
+          },
+          {
+            "part": "superimposing logic",
+            "number": 102
+          },
+          {
+            "part": "virtual surface",
+            "number": 104
+          },
+          {
+            "part": "physical surface",
+            "number": 106
+          },
+          {
+            "part": "imaging sensor",
+            "number": 108
+          },
+          {
+            "part": "user",
+            "number": 110
+          },
+          {
+            "part": "virtual document",
+            "number": 112
+          },
+          {
+            "part": "headset",
+            "number": 114
+          },
+          {
+            "part": "sensor output&#xA0;&#xA0;",
+            "number": 116
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 2",
+        "briefDescription": "<p><b>Fig. 2</b> illustrates an AR or VR system 200 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "AR or VR system",
+            "number": 200
+          },
+          {
+            "part": "virtual environment",
+            "number": 202
+          },
+          {
+            "part": "operating system",
+            "number": 204
+          },
+          {
+            "part": "virtual object",
+            "number": 206
+          },
+          {
+            "part": "hardware",
+            "number": 208
+          },
+          {
+            "part": "virtual surface",
+            "number": 210
+          },
+          {
+            "part": "application",
+            "number": 212
+          },
+          {
+            "part": "user",
+            "number": 214
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 3",
+        "briefDescription": "<p><b>Fig. 3</b> illustrates a device 300 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "device",
+            "number": 300
+          },
+          {
+            "part": "headpiece",
+            "number": 302
+          },
+          {
+            "part": "central portion",
+            "number": 304
+          },
+          {
+            "part": "left&#xA0;optical component",
+            "number": 306
+          },
+          {
+            "part": "right optical component",
+            "number": 308
+          },
+          {
+            "part": "left in-coupling zone",
+            "number": 310
+          },
+          {
+            "part": "rightin-coupling zone",
+            "number": 312
+          },
+          {
+            "part": "left intermediate zone",
+            "number": 314
+          },
+          {
+            "part": "right intermediate zone",
+            "number": 316
+          },
+          {
+            "part": "left exit zone",
+            "number": 318
+          },
+          {
+            "part": "right exit zone",
+            "number": 320
+          },
+          {
+            "part": "left stereo camera",
+            "number": 322
+          },
+          {
+            "part": "right stereo camera",
+            "number": 324
+          },
+          {
+            "part": "left microphone",
+            "number": 326
+          },
+          {
+            "part": "right microphone",
+            "number": 328
+          },
+          {
+            "part": "left speaker",
+            "number": 330
+          },
+          {
+            "part": "right speaker",
+            "number": 332
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 4",
+        "briefDescription": "<p><b>Fig. 4</b> illustrates an augmented reality device&#xA0;logic 400 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "augmented reality device&#xA0;logic",
+            "number": 400
+          },
+          {
+            "part": "graphics engine",
+            "number": 402
+          },
+          {
+            "part": "camera",
+            "number": 404
+          },
+          {
+            "part": "processing units",
+            "number": 406
+          },
+          {
+            "part": "CPU",
+            "number": 408
+          },
+          {
+            "part": "GPU",
+            "number": 410
+          },
+          {
+            "part": "WiFi",
+            "number": 412
+          },
+          {
+            "part": "Bluetooth",
+            "number": 414
+          },
+          {
+            "part": "speakers",
+            "number": 416
+          },
+          {
+            "part": "microphones",
+            "number": 418
+          },
+          {
+            "part": "memory",
+            "number": 420
+          },
+          {
+            "part": "logic",
+            "number": 422
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 5",
+        "briefDescription": "<p><b>Fig. 5</b> illustrates an AR device 500 that may implement aspects of the machine processes described herein.</p>",
+        "parts": [
+          {
+            "part": "AR device",
+            "number": 500
+          },
+          {
+            "part": "processing units",
+            "number": 502
+          },
+          {
+            "part": "input devices",
+            "number": 504
+          },
+          {
+            "part": "memory",
+            "number": 506
+          },
+          {
+            "part": "output devices",
+            "number": 508
+          },
+          {
+            "part": "storage devices",
+            "number": 510
+          },
+          {
+            "part": "network interface",
+            "number": 512
+          },
+          {
+            "part": "logic",
+            "number": 514
+          },
+          {
+            "part": "logic",
+            "number": 516
+          },
+          {
+            "part": "logic",
+            "number": 518
+          },
+          {
+            "part": "logic&#xA0;",
+            "number": 520
+          }
+        ]
+      },
+      {
+        "figure": "Fig. 6",
+        "briefDescription": "<p><b>Fig. 6</b> illustrates an AR device logic 600 in accordance with one embodiment.</p>",
+        "parts": [
+          {
+            "part": "AR device logic",
+            "number": 600
+          },
+          {
+            "part": "memory",
+            "number": 602
+          },
+          {
+            "part": "microphones",
+            "number": 604
+          },
+          {
+            "part": "device tracking logic",
+            "number": 606
+          },
+          {
+            "part": "local modeling logic",
+            "number": 608
+          },
+          {
+            "part": "cameras",
+            "number": 610
+          },
+          {
+            "part": "encoder",
+            "number": 612
+          },
+          {
+            "part": "local augmentation logic",
+            "number": 614
+          },
+          {
+            "part": "rendering engine",
+            "number": 616
+          },
+          {
+            "part": "graphics engine",
+            "number": 618
+          },
+          {
+            "part": "decoder",
+            "number": 620
+          },
+          {
+            "part": "speakers",
+            "number": 622
+          }
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "virtualize",
+        "definition": "converting a physical thing to a computer-generated simulation of that thing."
+      },
+      {
+        "term": "augmented reality",
+        "definition": "technology that superimposes computer-generated imagery on a user's view of the real world, thus providing a composite view."
+      },
+      {
+        "term": "virtual reality",
+        "definition": "the computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment, such as a headset with a display and gloves fitted with sensors."
+      }
+    ],
+    "terms": [
+      "virtual surface",
+      "camera",
+      "projection location",
+      "system",
+      "interaction",
+      "imaging sensor",
+      "logic",
+      "filtered texture",
+      "texture image",
+      "virtual environment"
+    ]
+  },
+  "repository": "https://github.com/TurboPatent/augmented-reality"
+}
